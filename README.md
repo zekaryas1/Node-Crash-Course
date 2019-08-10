@@ -1,6 +1,8 @@
 # Node Crash Course Files
 
-> These files go with the Node crash course on YouTube.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="350" title="hover text">
+</p>
 
 ## Quick Start
 
